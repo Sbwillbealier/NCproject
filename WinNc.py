@@ -3,7 +3,7 @@
 """
 Created on Fri May 12 11:37:39 2017
 
-@author: gj
+@author: GJ
 """
 
 import Tkinter as tk
